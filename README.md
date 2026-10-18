@@ -84,15 +84,6 @@ notebooks/
 
 - Baseline_1_and_2.ipynb: Current implementation
 
-proposal/
-
-- Capstone_Proposal.pdf: Formal proposal with references
-
-data/
-
-- GSE47460_Platform1_clean.csv
-- GSE47460_Platform2_sealed.csv
-
 README.md: This file
 
 ---
