@@ -78,33 +78,6 @@ Strict Data Leakage Prevention:
 
 ---
 
-## Next Steps (Capstone 2)
-
-Baseline 1 Classification:
-
-- Finish implementation
-- Aim for 75% balanced accuracy
-
-Advanced Models to Explore:
-
-- LASSO, Elastic Net
-- XGBoost, Random Forest
-- Support vector machines
-
-Validation:
-
-- Test on sealed Platform 2 data
-- Check if models work on different microarray technology
-- Assess batch effects and cross-platform generalization
-
-Interpretation:
-
-- Identify which genes matter most
-- Pathway enrichment analysis
-- Biological meaning of predictions
-
----
-
 ## Repository Structure
 
 notebooks/
